@@ -4,7 +4,7 @@
 Simple Interest Calculator
 
 ## Project Description
-This project is part of the Introduction to Git and GitHub learning assignment. It demonstrates basic Git and GitHub operations and provides a Bash script to calculate simple interest.
+This project is part of the Introduction to Git and GitHub learning project. It demonstrates basic Git and GitHub operations and provides a Bash script to calculate simple interest.
 
 ## Simple Interest Calculator
 
